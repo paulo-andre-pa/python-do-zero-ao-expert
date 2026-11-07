@@ -1,0 +1,9 @@
+pytest>=8
+mypy>=1.10
+pydantic>=2
+requests>=2.31
+numpy>=2
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
+flask>=3

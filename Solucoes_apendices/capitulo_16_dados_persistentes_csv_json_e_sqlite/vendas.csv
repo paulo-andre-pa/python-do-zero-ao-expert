@@ -1,0 +1,8 @@
+data;loja;produto;quantidade;preco
+2026-03-01;Porto;Café;30;0.80
+2026-03-01;Lisboa;Bolo;12;2.50
+2026-03-01;Porto;Bolo;8;2.50
+2026-03-02;Lisboa;Café;45;0.80
+2026-03-02;Faro;Sumo;20;1.50
+2026-03-02;Porto;Café;25;0.80
+2026-03-03;Faro;Café;18;0.80

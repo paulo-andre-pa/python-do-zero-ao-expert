@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <title>{% block titulo %}{% endblock %}</title>
+</head>
+<body>
+  <nav><a href="{{ url_for('inicio') }}">Início</a></nav>
+  {% for mensagem in get_flashed_messages() %}
+    <p class="aviso">{{ mensagem }}</p>
+  {% endfor %}
+  <main>{% block conteudo %}{% endblock %}</main>
+</body>
+</html>

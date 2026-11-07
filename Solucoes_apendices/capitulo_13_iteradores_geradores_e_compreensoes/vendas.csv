@@ -1,0 +1,8 @@
+data;loja;produto;quantidade;preco
+2026-03-01;Porto;Café;3;0.80
+2026-03-01;Lisboa;Bolo;2;2.50
+2026-03-01;Porto;Bolo;1;2.50
+linha corrompida
+2026-03-02;Lisboa;Café;5;0.80
+2026-03-02;Faro;Sumo;2;1.50
+2026-03-02;Porto;Café;4;0.80

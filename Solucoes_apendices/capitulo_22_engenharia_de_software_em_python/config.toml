@@ -1,0 +1,7 @@
+[aplicacao]
+nome = "Gestor de Stock"
+idiomas = ["pt", "en"]
+
+[base_dados]
+caminho = "stock.db"
+timeout = 5

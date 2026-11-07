@@ -1,0 +1,9 @@
+[project]
+name = "painel-vendas"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = ["pandas>=2.2", "matplotlib>=3.8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
